@@ -17,8 +17,8 @@ To read the given data and perform the univariate analysis with different types 
 
 ## PROGRAM:
 
-### Developed by:chadalawada jaswanth
-### Reference number:212221040030
+### Developed by:A.sudheer
+### Reference number:212220040006
 
 ### diabetes.csv
 ```
